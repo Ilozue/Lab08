@@ -1,4 +1,5 @@
 package com.example.lab08;
+//This is a test comment for CI check
 
 public class City {
     private String city;
