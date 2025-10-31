@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class CustomListTest {
 
     private CustomList makeEmptyList() {
-        return new CustomList(null, new java.util.ArrayList<City>());
+        return new CustomList();
     }
 
     @Test
